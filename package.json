@@ -1,0 +1,22 @@
+{
+  "name": "web333app",
+  "version": "0.1.1",
+  "description": "A demonstration project using the web333dapper package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["web333dapper", "smart contract", "blockchain"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bangkeras/web333app.git"
+  },
+  "homepage": "https://github.com/Bangkeras/web333app#readme",
+  "dependencies": {
+    "web3": "^2.0.0",
+    "web333dapper": "^0.1.0",
+    "web333app": "^0.1.0"
+  }
+}
